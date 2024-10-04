@@ -3,7 +3,9 @@
 export default function Home() {
   return (
     <>
-    <h1>Home</h1>
+    <main className="bg-cinzento flex-1 h-full w-full text-white">
+    <h1>Hey</h1>
+    </main>
 
     </>
 
