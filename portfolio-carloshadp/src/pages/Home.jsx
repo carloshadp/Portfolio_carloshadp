@@ -1,5 +1,4 @@
 import { Linkedin, Github, Instagram } from "lucide-react"
-import "/portfolio-carloshadp/src/imgs"
 
 export default function Home() {
   return (
@@ -20,7 +19,7 @@ export default function Home() {
 
           </div>
           <div className="row-span-2">
-            <img src="../img/Eu-Programando.png" className="w-[300px] h-[300px] desktop:w-[450px] desktop:h-[450px] place-self-center" />
+            <img src="/vercel/path0/portfolio-carloshadp/src/imgs/Eu-Programando.png" className="w-[300px] h-[300px] desktop:w-[450px] desktop:h-[450px] place-self-center" />
           </div>
         </div>
       </main>

@@ -10,8 +10,7 @@ export default {
       "tablet" : "600px",
       "desktop" : "1024px"
     },
-    
-    extend: {
+     extend: {
       colors:{
         "cinzento" : "#292521",
         "cinzento-escuro" : "#1E1B1B",
