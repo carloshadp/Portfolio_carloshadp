@@ -19,7 +19,7 @@ export default function Home() {
 
           </div>
           <div className="row-span-2">
-            <img src="/imgs/eu-programando.png" className="w-[300px] h-[300px] desktop:w-[450px] desktop:h-[450px] place-self-center" />
+            <img src="/imgs/homeImage.png" className="w-[300px] h-[300px] desktop:w-[450px] desktop:h-[450px] place-self-center" />
           </div>
         </div>
       </main>
