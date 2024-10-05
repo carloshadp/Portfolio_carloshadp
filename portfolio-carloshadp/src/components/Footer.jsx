@@ -11,15 +11,15 @@ export default function Footer() {
         </div>
           <div className="flex flex-col items-center">
             <div>
-              <h3 className="text-lg">Contato Pessoal</h3>
+              <h3 className="text-lg">Personal Contact</h3>
             </div>
             <div className="flex">
               <MessageCircle />
-              <a href="https://wa.me/5511949843889" target="blank">(11)94984-3889</a>
+              <a className="hover:text-zinc-500" href="https://wa.me/5511949843889" target="blank">(11)94984-3889</a>
             </div>
             <div className="flex">
               <Mail />
-              <a href="mailto:carloshadp@gmail.com" target="blank">carloshadp@gmail.com</a>
+              <a className="hover:text-zinc-500" href="mailto:carloshadp@gmail.com" target="blank">carloshadp@gmail.com</a>
             </div>
           </div>
           <div>
