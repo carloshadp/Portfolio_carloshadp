@@ -13,7 +13,7 @@ function FrontEndSkills() {
 
           <div className="bg-cinzento-escuro p-4 rounded-xl text-white flex flex-col items-center hover:border-[2px]">
             <h3 className="text-lg">JavaScript</h3>
-            <img src="/src/Assets/JavaScript.svg" alt="Js-logo" className="w-24 h-24"/>
+            <img src="portfolio-carloshadp\src\Assets\JavaScript.svg" alt="Js-logo" className="w-24 h-24"/>
           </div>
 
           <div className="bg-cinzento-escuro p-4 rounded-xl text-white flex flex-col items-center hover:border-[2px]">
