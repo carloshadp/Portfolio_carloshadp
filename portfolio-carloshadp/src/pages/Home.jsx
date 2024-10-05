@@ -1,5 +1,5 @@
 import { Linkedin, Github, Instagram } from "lucide-react"
-
+import "/portfolio-carloshadp/src/imgs"
 
 export default function Home() {
   return (
