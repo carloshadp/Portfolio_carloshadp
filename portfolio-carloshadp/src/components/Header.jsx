@@ -7,7 +7,7 @@ export default function Header() {
       <header className="bg-cinzento sticky top-0 z-[20] mx-auto flex flex-wrap w-full  items-center justify-between ">
         <Logo />
         <Nav/>
-      
+
       </header>
 
 

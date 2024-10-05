@@ -1,0 +1,10 @@
+.hovers{
+    @apply relative tracking-[1px]
+}
+
+.hovers::after{
+    @apply content-[''] bg-zinc-500 h-[3px] w-[0%] left-0 -bottom-[5px] rounded-xl absolute duration-300
+}
+.hovers:hover::after{
+    @apply w-[100%]
+}

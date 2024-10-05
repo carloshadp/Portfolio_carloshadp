@@ -6,6 +6,7 @@ export default {
   ],
   theme: {
     screens:{
+      "mini": "250px",
       "tablet" : "600px",
       "desktop" : "1024px"
     },
