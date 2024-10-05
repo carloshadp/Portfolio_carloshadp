@@ -7,7 +7,7 @@ export default function Footer() {
       <footer className="bg-gradient-to-b from-cinzento to-black w-full flex flex-col justify-around tablet:justify-center">
         <div className="text-white flex flex-col items-center gap-4 tablet:flex-row tablet:justify-around ">
         <div>
-          <img src="/src/imgs/carloshadp-logo.png" alt="Logo Carlos" className="w-16 h-16" />
+          <img src="/imgs/carloshadp-logo.png" alt="Logo Carlos" className="w-16 h-16" />
         </div>
           <div className="flex flex-col items-center">
             <div>
