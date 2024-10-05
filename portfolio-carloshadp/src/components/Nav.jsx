@@ -23,7 +23,7 @@ export default function Nav() {
                     <NavLink to="/About" className="hovers">About</NavLink>
                 </div>
                 <div className="tablet:hidden">
-                    <button onClick={toggleNavbar}>{isOpen ? <X className="text-white" /> : <Menu className="text-white"/>}</button>
+                    <button onClick={toggleNavbar}>{isOpen ? <X className="text-white" /> : <Menu className="text-white mr-5"/>}</button>
                 </div>
             </nav>
             {isOpen && (

@@ -1,0 +1,20 @@
+[
+    { "id": 1, 
+      "titulo": "Formula-E Manager", 
+      "imagem": "/src/imgs/Formula-E.png", 
+      "descricao": "Descrição do Projeto 1"
+
+    },
+    { "id": 2, 
+      "titulo": "Simulador Bateria", 
+      "imagem": "", 
+      "descricao": "Descrição do Projeto 2 " 
+
+    },
+    { "id": 3, 
+      "titulo": "Detector de Gases", 
+      "imagem": "url-imagem-3", 
+      "descricao": "Descrição do Projeto 3" 
+
+    }
+  ]

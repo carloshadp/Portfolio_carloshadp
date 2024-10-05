@@ -12,7 +12,8 @@ export default {
     },
     extend: {
       colors:{
-        "cinzento" : "#292521"
+        "cinzento" : "#292521",
+        "cinzento-escuro" : "#1E1B1B",
       }
     },
   },

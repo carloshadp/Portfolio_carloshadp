@@ -8,6 +8,8 @@ import Home from './pages/Home.jsx'
 import Projects from './pages/Projects.jsx'
 import Skills from './pages/Skills.jsx'
 import About from './pages/About.jsx'
+import ProjectsDetailPage from './pages/ProjectsDetailPage.jsx'
+import data from "/src/data/datas.json"
 
 const Rotas = createBrowserRouter([
   {
@@ -29,6 +31,10 @@ const Rotas = createBrowserRouter([
       {
         path: "/About",
         element: <About/>
+      },
+      {
+        path: "/Projects/:id",
+        element: <ProjectsDetailPage dados={data}/>
       }
 
       
