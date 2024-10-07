@@ -19,7 +19,7 @@ export default function Form() {
     event.preventDefault();
     console.log(values.name)
     console.log(values.email)
-    console.log(values.password)
+    console.log(values.message)
   }
   
 
@@ -38,8 +38,8 @@ export default function Form() {
         </div>
 
         <div className="ml-3">
-          <label className="mr-3" htmlFor="password">Password:</label>
-          <input className="bg-zinc-600 rounded-xl" type="password" name="password" placeholder="Type your Password" onChange={handleInput}/>
+          <label className="mr-3" htmlFor="message">Message:</label>
+          <textarea className="bg-zinc-600 rounded-xl" type="text" name="message" placeholder="Type your Message" onChange={handleInput}/>
         </div>
 
       </form>

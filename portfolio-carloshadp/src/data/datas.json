@@ -2,21 +2,21 @@
     { "id": 1, 
       "titulo": "Formula-E Manager Wiki", 
       "imagem": "/imgs/Formula-E.png", 
-      "descricao": "Formula-E Manager e um site wiki dedicado ao nosso Challenge, que e um jogo de formula-e onde vc comanda sua equipe de carros, o nosso site tras varias informacoes sobre circuitos, equipes e pilotos para o jogador do nosso jogo usufruir da melhor experiencia",
+      "descricao": "Formula-E Manager e um site wiki dedicado ao nosso Challenge, que e um jogo de formula-e onde você comanda sua equipe de carros, o nosso site trás varias informações sobre circuitos, equipes e pilotos para o jogador do nosso jogo usufruir da melhor experiência",
       "link": "https://github.com/carloshadp/WebDev-Sprint3"
 
     },
     { "id": 2, 
       "titulo": "Simulador Bateria", 
       "imagem": "/imgs/Bateria.png", 
-      "descricao": "Esse projeto simula a bateria dos carros de Formula-E, faz um grafico da bateria durante toda a corrida e cria um dataframe com 20 simulacoes para o usuario conseguir analizar melhor. Feito em Python",
+      "descricao": "Esse projeto simula a bateria dos carros de Formula-E, faz um gráfico da bateria durante toda a corrida e cria um dataframe com 20 simulações para o usuario conseguir analizar melhor. Feito em Python",
       "link": "https://github.com/carloshadp/Python_Sprint3"
 
     },
     { "id": 3, 
       "titulo": "Detector de Gases", 
       "imagem": "/imgs/boia-oceanografica.webp", 
-      "descricao": "Esse projeto e um detector de gases poluentes feito para ser implantado em boias-oceanograficas e detectar princialmente o gas C02, ao detectar grandes quantidades desses gases ele avisa os controladores, para assim tomar os devidos cuidados. Feito em Arduino com C++",
+      "descricao": "Esse projeto é um detector de gases poluentes feito para ser implantado em boias-oceanograficas e detectar princialmente o gás C02, ao detectar grandes quantidades desses gases ele avisa os controladores, para assim tomar os devidos cuidados. Feito em Arduino com C++",
       "link": "https://github.com/carloshadp/Edge-Computer_Global_Solution"
     }
   ]
