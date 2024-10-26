@@ -12,7 +12,7 @@ export default function Home() {
             </div>
 
             <div className="flex gap-6">
-              <a href="https://www.linkedin.com/in/carlos-henrique-048a4b270/"><Linkedin className="w-12 h-12 "/></a>
+              <a href="https://www.linkedin.com/in/carloshadp/"><Linkedin className="w-12 h-12 "/></a>
               <a href="https://github.com/carloshadp"><Github className="w-12 h-12"/></a>
               <a href="https://www.instagram.com/carloshadp/"><Instagram className="w-12 h-12"/></a>
             </div>
